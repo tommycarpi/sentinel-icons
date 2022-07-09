@@ -1066,5 +1066,11 @@
     "ocau": "ocau",
     "asustor": "asustor",
     "sda": "sda",
-    "sta": "sda"
+    "sta": "sda",
+    "webmin": "webmin",
+    "keenetic": "keenetic",
+    "vindax": "vindax",
+    "moneypro": "moneypro",
+    "rrmc": "rrmc",
+    "cryptology": "cryptology"
 }
