@@ -1,10 +1,15 @@
 # Sentinel Authenticator Icons
 This repository contains all the icons available within the [Sentinel 2-Factor Authenticator](https://getsentinel.io/) app (available for iOS and macOS).
+<div>
+<img src="https://user-images.githubusercontent.com/10156527/178108743-47664cfb-e720-432a-8c20-514395b7f9d8.png" width="200">
+<img src="https://user-images.githubusercontent.com/10156527/178108749-7a22321e-9cbe-421a-aee7-2c518e7aeb2b.png" width="200" margin-right="10">
+</div>
 
 A lot of icons are already present, but if you are missing one you can either:
-- open an issue here and I'll try to add it as soon as possible
-- create a pull request submitting your icons
+- <ins>open an issue</ins> here and I'll try to add it as soon as possible
+- <ins>create a pull request</ins> submitting your icons
 
+-----
 
 # How to add a missing icon?
 It's super simple, here are the requirements:
@@ -17,6 +22,7 @@ It's super simple, here are the requirements:
 2. Add a row in the ```/icons/index.json``` referenced to the icon (check the following section to understand how the algorithm works)
 3. Submit a ```pull request```
 
+------
 
 # How does the algorithm work?
 The ```index.json``` is structured in this way
@@ -41,9 +47,13 @@ If the attempt fails, it will try to ```split()``` the issuer on the blank space
 The match will fail ❌, no key was found in ```index.json```.
 
 ### 2nd attemp
-```split(" ")```
-```Issuer = [bianance, us] = "binance"``` <br>
+```split(" ")[0]```
+```Issuer = [binance, us] = "binance"``` <br>
 Match found ✅! The correct icon will be displayed.
 
 
+------
+
 If you have any questions or suggestion feel free to reach out to me! ☺️
+
+For more info, check out [getsentinel.io](https://getsentinel.io/)
