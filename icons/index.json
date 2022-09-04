@@ -1088,5 +1088,6 @@
     "arqbackup": "arqbackup",
     "tradeogre": "tradeogre",
     "wasd" : "wasd",
-    "wasd.tv" : "wasd"
+    "wasd.tv" : "wasd",
+    "verifone" : "2checkout"
 }
