@@ -735,7 +735,7 @@
     "physiopedia": "physiopedia",
     "okcoin": "okcoin",
     "combell": "combell",
-    "helium-stacking": "helium-stacking",
+    "helium-staking": "helium-staking",
     "nutmeg": "nutmeg",
     "wethos": "wethos",
     "vccess": "vccess",
@@ -871,7 +871,7 @@
     "hilton": "hilton",
     "hushmail": "hushmail",
     "fmfw.io": "fmfw",
-    "bspb.ru": "bspb",
+    "bspb.ru": "bspbru",
     "verasity": "verasity",
     "idrive": "idrive",
     "centrallaunchexperience.audi": "audi",
@@ -1106,5 +1106,6 @@
     "voip.ms": "voipms",
     "floatplane": "floatplane",
     "selectel": "selectel",
-    "wasd": "wasd"
+    "wasd": "wasd",
+    "verifone": "2checkout"
 }
