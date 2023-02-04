@@ -1107,5 +1107,8 @@
     "floatplane": "floatplane",
     "selectel": "selectel",
     "wasd": "wasd",
-    "verifone": "2checkout"
+    "verifone": "2checkout",
+    "locket": "locket",
+    "hotjar": "hotjar",
+    "fondy": "fondy-ua"
 }
