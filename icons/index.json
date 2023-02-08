@@ -1110,5 +1110,7 @@
     "verifone": "2checkout",
     "locket": "locket",
     "hotjar": "hotjar",
-    "fondy": "fondy-ua"
+    "fondy": "fondy-ua",
+    "ledger": "ledger",
+    "monday": "monday"
 }
