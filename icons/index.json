@@ -1134,5 +1134,6 @@
     "servicenow": "servicenow",
     "survalent": "survalent",
     "gdr": "gdr",
-    "vivaldi": "vivaldi"
+    "vivaldi": "vivaldi",
+    "openai": "openai"
 }
