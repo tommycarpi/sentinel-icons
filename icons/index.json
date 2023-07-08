@@ -1129,5 +1129,13 @@
     "vivaldi": "vivaldi",
     "openai": "openai",
     "homey": "homey",
-    "kick" : "kick"
+    "kick" : "kick",
+    "crowdsec" : "crowdsec",
+    "managewp" : "managewp",
+    "mattermost" : "mattermost",
+    "soyoustart" : "soyoustart",
+    "transmit" : "transmit",
+    "dilolabs" : "dilolabs",
+    "123boost" : "123boost",
+    "cron-job" : "cron-job"
 }
