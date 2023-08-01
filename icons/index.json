@@ -1138,5 +1138,7 @@
     "dilolabs" : "dilolabs",
     "123boost" : "123boost",
     "cron-job" : "cron-job",
-    "x": "twitter"
+    "x": "twitter",
+    "postman": "postman",
+    "idcloudhost": "idcloudhost"
 }
