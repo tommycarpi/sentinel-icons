@@ -1140,5 +1140,6 @@
     "cron-job" : "cron-job",
     "x": "twitter",
     "postman": "postman",
-    "idcloudhost": "idcloudhost"
+    "idcloudhost": "idcloudhost",
+    "arduino": "arduino"
 }
