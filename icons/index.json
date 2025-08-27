@@ -413,6 +413,7 @@
     "git:": "github",
     "github": "github",
     "gitlab": "gitlab",
+    "gl-inet": "gl-inet",
     "gladys": "gladys",
     "glassdoor": "glassdoor",
     "gleam": "gleam.io",
